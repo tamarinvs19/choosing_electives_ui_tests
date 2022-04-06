@@ -1,0 +1,26 @@
+# DB
+*.sqlite3
+
+# Django
+staticfiles
+*compressed_static/
+
+# Python
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# config
+choosing_electives.ini
+
+# Dependencies
+/node_modules/
+package-lock.json
+
+*.log
+.cache_ggshield
+
